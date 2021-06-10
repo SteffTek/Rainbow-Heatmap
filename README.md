@@ -1,4 +1,4 @@
-# Rainbow-Timelapse
+# Rainbow-Heatmap
 Create Heatmap from Rainbow Canvas Data.
 
 [**Rainbow Canvas Main Project**](https://github.com/SteffTek/Rainbow-Canvas)
